@@ -24,7 +24,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: docker.io/sahera1987143/block-buster-dev:7.8.0 
+          image: docker.io/vaithe/block-buster-dev:7.8.0 
           imagePullPolicy: Always
           resources:
             requests:
